@@ -4,6 +4,9 @@
 - Name: Maiza Fatima
 - Reg ID: 235205
 
+## Instructor
+[@I-m-ali](https://github.com/I-m-ali) - Sir Ghulam Ali
+
 ## Description
 A complete system for enhancing images using the concepts of Digital Image Processing lab using the programming language Python with the libraries OpenCV and Matplotlib.
 
